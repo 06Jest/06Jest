@@ -54,7 +54,6 @@ Most of my work centers around a production-style multi-tenant CRM platform wher
 * Git
 * GitHub
 * VS Code
-* Postman
 * Figma
 
 ---
@@ -159,13 +158,12 @@ A complete Customer Relationship Management platform designed for organizations 
 
 # 🤝 Let's Connect
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* GitHub: https://github.com/06Jest/
+* LinkedIn: https://www.linkedin.com/in/scaledev
 
 ---
 
 ## 💡 Favorite Quote
 
-> "First, solve the problem. Then, write the code."
+> "First, solve the problem. Then, write the code. Finally, Optimize it"
 
-— John Johnson
