@@ -11,7 +11,7 @@ Most of my work centers around a production-style multi-tenant CRM platform wher
 
 ## 🚀 About Me
 
-* 🎓 Cum Laude Computer Science graduate
+* 🎓 Cum Laude Information Technology graduate
 * 💻 Full-Stack JavaScript / TypeScript Developer
 * 🏗️ Building production-style SaaS applications
 * 📚 Always learning software architecture and system design
