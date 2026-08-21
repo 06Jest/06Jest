@@ -146,7 +146,7 @@ Quezon City University · 2026
 🏅 **Cum Laude**  
 🎓 Academic achievement recognized for graduating with Latin honors
 
-<img src="./assets/certificate.png" alt="Bachelor of Science in Information Technology - Cum Laude" width="500" />
+<img src="./assets/latinCertificate.jpg" alt="Bachelor of Science in Information Technology - Cum Laude" width="500" />
 ---
 
 ## Connect With Me
