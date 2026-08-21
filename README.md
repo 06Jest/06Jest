@@ -1,24 +1,32 @@
 <div align="center">
 
-# Hi, I'm Jest 👋
+# Hi, I'm Jest
 
-### Full-stack developer building production-oriented web applications
+**Full-stack developer building multi-tenant SaaS systems, sharpening DSA, system design, and testing fundamentals along the way.**
 
-I work primarily in React/TypeScript on the frontend and Node.js/Express on the backend, with PostgreSQL and Supabase powering the data layer. I care about understanding how systems actually work — not just getting them to run.
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jest--scale--dev.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://jest-scale-dev.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-06Jest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/06Jest)
+<a href="https://github.com/06Jest">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" />
+</a>
+&nbsp;
+<a href="https://ph.linkedin.com/in/scaledev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" />
+</a>
+&nbsp;
+<a href="https://unithreadcrm.com/">
+  <img src="https://img.shields.io/badge/uniThread-000000?style=flat&logo=googlechrome&logoColor=white" height="28" />
+</a>
 
 </div>
 
----
+<br>
 
 ## About Me
 
-- Software developer focused on modern JavaScript/TypeScript and full-stack web application development.
-- Comfortable across the stack: React/Next.js on the frontend, Node.js/Express on the backend, PostgreSQL/Supabase for data.
-- Currently deepening advanced TypeScript, data structures & algorithms, backend architecture, API design, testing, and system design.
-- Prefer building real, working applications over isolated tutorial exercises — my main project below is a multi-tenant SaaS CRM, not a CRUD demo.
+I'm a software developer focused on modern JavaScript, TypeScript, and full-stack web development. My work centers on building real, production-oriented applications rather than tutorial clones, with an emphasis on authentication, multi-tenancy, API design, database architecture, and deployment.
+
+I'm currently deepening my skills in advanced TypeScript, data structures and algorithms, backend architecture, testing, and system design.
 
 ---
 
@@ -26,109 +34,136 @@ I work primarily in React/TypeScript on the frontend and Node.js/Express on the 
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge\&logo=zod\&logoColor=white)
 
-**Database / Backend Services**
+**Database & Backend Services**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
 **DevOps / Deployment**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-**Testing / Tools**
+**Testing & Tools**
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge\&logo=eslint\&logoColor=white)
+
+**Currently strengthening:** Advanced TypeScript · Data Structures & Algorithms · Backend Architecture · API Design · CI/CD · Docker · System Design
 
 ---
 
-## Featured Project — uniThread CRM
+## Featured Project: uniThread CRM
 
-A multi-tenant SaaS CRM platform I'm building as a serious full-stack application — designed around organization-level data isolation and SaaS concepts, not as a simple CRUD tutorial.
+**uniThread CRM** is a multi-tenant SaaS CRM platform I've been building as a serious full-stack application. Organization-level data isolation and SaaS architecture are core parts of the system rather than additions to a simple CRUD application.
 
-| Layer | Stack |
-|---|---|
-| Frontend | React 18, TypeScript, Redux Toolkit, Material UI, Chart.js, Tiptap |
-| Backend | Node.js, Express, TypeScript, REST APIs, JWT auth, Zod |
-| Database | PostgreSQL, Supabase, Row Level Security, Supabase Realtime |
-| Deployment | Vercel, Railway |
+🔗 **Live:** [unithreadcrm.com](https://unithreadcrm.com/)
+
+🔗 **Frontend:** [GitHub](https://github.com/06Jest/crm-project)
+
+🔗 **Backend:** [GitHub](https://github.com/06Jest/CRM-PROJECT-BACKEND)
 
 **Core workflow:** `Lead → Contact → Deal → Customer`
 
 **What it includes:**
-- Multi-tenancy with organization-level data isolation enforced via Row Level Security
-- Role-based access control (Owner / Manager / Agent)
-- Authentication with email verification, JWT access tokens, and refresh tokens
-- Leads, contacts, deals, customers, activities, pipelines, tags, and statuses
-- Internal messaging and real-time chat via Supabase Realtime
-- Dashboard analytics and leaderboards
-- Team invitations, subscription plans, and usage limits
-- Simulated SMS/email/call functionality for demo purposes
 
-Building this has meant working through practical problems in authentication, authorization, multi-tenant architecture, database design, API development, state management, real-time functionality, and deployment configuration. It's not running at production scale — it's a project I actively develop and iterate on as a full engineering exercise.
+* Multi-tenancy with organization-level data isolation enforced through PostgreSQL Row Level Security
+* Role-based access control with Owner, Manager, and Agent roles
+* JWT authentication with refresh tokens and email verification
+* Leads, contacts, deals, customers, activities, pipelines, tags, and statuses
+* Internal messaging and real-time chat using Supabase Realtime
+* Dashboard analytics and team leaderboards
+* Invitations, subscription plans, and usage limits
+* Simulated SMS, email, and call functionality for communication workflows
+* Responsive UI across devices
+
+**Stack:** React 18, TypeScript, Redux Toolkit, Material UI, Chart.js, Tiptap · Node.js, Express, TypeScript, Zod · PostgreSQL, Supabase, Row Level Security · Vercel, Railway
+
+This project has been my hands-on lab for authentication, authorization, multi-tenant architecture, database design, API development, state management, real-time functionality, testing, and deployment.
 
 ---
 
-## Engineering Experience / What I Build
+## Engineering Experience
 
-I care about:
+I care about building real applications rather than only following tutorials. I focus on understanding why systems work, writing maintainable code, and improving architecture over time.
 
-- Building real applications instead of only tutorials
-- Understanding *why* a system works, not just that it works
-- Writing maintainable, readable code
-- Improving architecture as a project grows, rather than getting it right the first time
-- Testing the functionality that actually matters
-- Treating bugs and deployment failures as part of the process, not detours from it
+Working on uniThread CRM has given me hands-on experience with:
 
-Working on uniThread CRM has meant hands-on experience with things you don't run into in tutorials: CORS configuration, session/auth management, database migrations, multi-tenancy and Row Level Security, environment configuration across environments, CI/CD pipeline issues, real-time subscription edge cases, and state-management quirks in data grid components. Each of these has been a practical lesson in how production systems actually behave.
+* Authentication and session management
+* Database migrations and schema evolution
+* Multi-tenancy and Row Level Security policies
+* Deployment configuration and environment variables
+* CI/CD pipeline issues
+* API error handling and validation edge cases
+* Frontend and backend integration
+* Real-time subscriptions
+* State management
+* DataGrid behavior and performance considerations
+* Production debugging
+* Git and GitHub workflows
+
+Every one of these has been a practical lesson in how production systems actually behave, not just how they're supposed to work on paper.
 
 ---
 
 ## DSA & Problem Solving
 
-I'm working through core data structures and algorithms on LeetCode, following a structured roadmap:
+Alongside application development, I'm following structured DSA roadmaps and practicing on LeetCode.
 
-`Arrays` `Hashing` `Strings` `Two Pointers` `Sliding Window` `Stack` `Binary Search` `Linked Lists` `Trees` `Graphs` `Heaps` `Recursion` `Dynamic Programming`
+**Current focus areas:**
 
-Recent problems: **Contains Duplicate**, **Valid Anagram**, **Two Sum**
+`Arrays` · `Hashing` · `Strings` · `Two Pointers` · `Sliding Window` · `Stack` · `Binary Search` · `Linked Lists` · `Trees` · `Graphs` · `Heaps` · `Recursion` · `Dynamic Programming`
+
+**Recently worked through:**
+
+[Contains Duplicate](https://github.com/06Jest/LearningDSA) · [Valid Anagram](https://github.com/06Jest/LearningDSA) · [Two Sum](https://github.com/06Jest/LearningDSA)
+
+🔗 **DSA Repository:** [github.com/06Jest/LearningDSA](https://github.com/06Jest/LearningDSA)
 
 ---
 
-## Currently Learning
+## Currently Building / Learning
 
 **Building**
-- uniThread CRM
-- Full-stack SaaS architecture
-- Production-oriented APIs
-- Multi-tenant systems
+
+* uniThread CRM
+* Full-stack SaaS architecture
+* Production-oriented APIs
+* Multi-tenant systems
+* Authentication and authorization systems
 
 **Learning**
-- Advanced TypeScript
-- Data Structures & Algorithms
-- System Design
-- Testing (unit, integration, E2E)
-- Docker & CI/CD
-- Scalable backend architecture
+
+* Advanced TypeScript
+* Data Structures & Algorithms
+* System Design
+* Testing with Jest, Playwright, and Supertest
+* Docker and CI/CD
+* Scalable application architecture
+* Backend architecture and API design
 
 ---
 
@@ -136,7 +171,9 @@ Recent problems: **Contains Duplicate**, **Valid Anagram**, **Two Sum**
 
 **Build. Break. Understand. Improve.**
 
-I'd rather understand why a solution works than copy one that does. That means reading errors instead of pattern-matching past them, and refactoring code I've already shipped once I understand it better.
+I'd rather understand why a system works, or why it broke, than copy a solution without knowing what it's doing.
+
+That means reading error messages closely, tracing bugs to their root cause, understanding the trade-offs behind technical decisions, and refactoring code once I understand it better than I did the first time I wrote it.
 
 ---
 
@@ -144,9 +181,15 @@ I'd rather understand why a solution works than copy one that does. That means r
 
 <div align="center">
 
-![Jest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=06Jest&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=06Jest&layout=compact&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=06Jest&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=06Jest&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=06Jest&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06Jest&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -154,20 +197,29 @@ I'd rather understand why a solution works than copy one that does. That means r
 
 ## Featured Repositories
 
-| Repository | Description |
-|---|---|
-| **uniThread CRM — Frontend** | React/TypeScript frontend for a multi-tenant SaaS CRM *(link coming soon)* |
-| **uniThread CRM — Backend** | Node.js/Express API with JWT auth and Supabase/PostgreSQL *(link coming soon)* |
-| **DSA Practice** | Ongoing LeetCode solutions and structured DSA practice *(link coming soon)* |
-| **Portfolio** | Personal developer portfolio *(link coming soon)* |
+| Repository                                                             | Description                                                  |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [uniThread CRM Frontend](https://github.com/06Jest/crm-project)        | React and TypeScript client for the uniThread CRM platform   |
+| [uniThread CRM Backend](https://github.com/06Jest/CRM-PROJECT-BACKEND) | Node.js and Express API powering multi-tenant CRM operations |
+| [DSA Practice](https://github.com/06Jest/LearningDSA)                  | Ongoing LeetCode solutions and structured DSA practice       |
+| [GitHub Profile](https://github.com/06Jest)                            | My development projects, experiments, and ongoing work       |
 
 ---
 
 ## Connect With Me
 
-- 🌐 Portfolio: [jest-scale-dev.vercel.app](https://jest-scale-dev.vercel.app)
-- 💻 GitHub: [@06Jest](https://github.com/06Jest)
-- 💼 LinkedIn: *add your LinkedIn URL*
-- ✉️ Email: *add your email*
+<div align="center">
+
+<a href="https://github.com/06Jest">
+  <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://ph.linkedin.com/in/scaledev">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://unithreadcrm.com/">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="42" alt="Website" />
+</a>
 
 </div>
