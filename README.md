@@ -2,7 +2,7 @@
 
 # Hi, I'm Jest
 
-**Full-stack developer building multi-tenant SaaS systems, sharpening DSA, system design, and testing fundamentals along the way.**
+**Full-stack dev, building solutions to real-world problems with scalable and maintainable software.**
 
 <br>
 
