@@ -147,6 +147,7 @@ Quezon City University · 2026
 🎓 Academic achievement recognized for graduating with Latin honors
 
 <img src="./assets/latinCertificate.jpg" alt="Bachelor of Science in Information Technology - Cum Laude" width="100%"/>
+
 ---
 
 ## Connect With Me
@@ -154,3 +155,5 @@ Quezon City University · 2026
 <div align="center">
 <a href="https://ph.linkedin.com/in/scaledev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=silvanojestony27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" /></a>
 </div>
+
+---
