@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://ph.linkedin.com/in/scaledev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white" height="28" />
 </a>
 
 <a href="https://jest-scale-dev.vercel.app/">
