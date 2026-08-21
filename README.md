@@ -131,23 +131,17 @@ Every one of these has been a practical lesson in how production systems actuall
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=06Jest&theme=tokyonight"
-  width="400"
-/>
-
-<br>
 
 <img
   src="https://streak-stats.demolab.com/?user=06Jest&theme=tokyonight&hide_border=true"
-  width="400"
+  width="600"
 />
 
 <br>
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=tokyo-night"
-  width="400"
+  width="600"
 />
 
 </div>
