@@ -131,14 +131,6 @@ Every one of these has been a practical lesson in how production systems actuall
 
 <div align="center">
 
-
-<img
-  src="https://streak-stats.demolab.com/?user=06Jest&theme=tokyonight&hide_border=true"
-  width="600"
-/>
-
-<br>
-
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=tokyo-night"
   width="600"
@@ -148,31 +140,16 @@ Every one of these has been a practical lesson in how production systems actuall
 
 ---
 
-## Featured Repositories
-
-| Repository                                                             | Description                                                  |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [uniThread CRM Frontend](https://github.com/06Jest/crm-project)        | React and TypeScript client for the uniThread CRM platform   |
-| [uniThread CRM Backend](https://github.com/06Jest/CRM-PROJECT-BACKEND) | Node.js and Express API powering multi-tenant CRM operations |
-| [DSA Practice](https://github.com/06Jest/LearningDSA)                  | Ongoing LeetCode solutions and structured DSA practice       |
-| [GitHub Profile](https://github.com/06Jest)                            | My development projects, experiments, and ongoing work       |
-
----
-
 ## Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/06Jest">
-  <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub" />
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://ph.linkedin.com/in/scaledev">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://unithreadcrm.com/">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="42" alt="Website" />
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=silvanojestony27@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail" />
 </a>
 
 </div>
