@@ -7,15 +7,15 @@
 <br>
 
 <a href="https://github.com/06Jest">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" />
+  <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />
 </a>
-&nbsp;
+
 <a href="https://ph.linkedin.com/in/scaledev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
 </a>
-&nbsp;
-<a href="https://unithreadcrm.com/">
-  <img src="https://img.shields.io/badge/uniThread-000000?style=flat&logo=googlechrome&logoColor=white" height="28" />
+
+<a href="https://jest-scale-dev.vercel.app/">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="36" height="36" alt="Portfolio" />
 </a>
 
 </div>
@@ -41,7 +41,6 @@ I'm currently deepening my skills in advanced TypeScript, data structures and al
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
 
 **Backend**
 
@@ -49,7 +48,6 @@ I'm currently deepening my skills in advanced TypeScript, data structures and al
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge\&logo=zod\&logoColor=white)
 
 **Database & Backend Services**
 
