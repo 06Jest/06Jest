@@ -52,7 +52,7 @@ I'm currently deepening my skills in advanced TypeScript, data structures and al
   <img
     src="./assets/unithread-lifecycle.gif"
     alt="CRM Demo"
-    width="300"
+    width="500"
   />
 </p>
 
