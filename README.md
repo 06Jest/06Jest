@@ -138,6 +138,17 @@ Every one of these has been a practical lesson in how production systems actuall
 
 ---
 
+## Education & Honors
+
+**Bachelor of Science in Information Technology**  
+Quezon City University · 2026
+
+🏅 **Cum Laude**  
+🎓 Academic achievement recognized for graduating with Latin honors
+
+<img src="./assets/certificate.png" alt="Bachelor of Science in Information Technology - Cum Laude" width="500" />
+---
+
 ## Connect With Me
 
 <div align="center">
