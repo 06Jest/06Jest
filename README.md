@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/06Jest"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" /></a>&nbsp;&nbsp;<a href="https://jest-scale-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" height="28" /></a>
+<a href="https://github.com/06Jest"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" /></a>&nbsp;&nbsp;<a href="https://jest-scale-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" height="28" /></a>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=06Jest&style=flat&color=AD7450" height="28" alt="Profile views" />
 </div>
 
 </div>
