@@ -127,22 +127,6 @@ Every one of these has been a practical lesson in how production systems actuall
 
 ---
 
-## DSA & Problem Solving
-
-Alongside application development, I'm following structured DSA roadmaps and practicing on LeetCode.
-
-**Current focus areas:**
-
-`Arrays` · `Hashing` · `Strings` · `Two Pointers` · `Sliding Window` · `Stack` · `Binary Search` · `Linked Lists` · `Trees` · `Graphs` · `Heaps` · `Recursion` · `Dynamic Programming`
-
-**Recently worked through:**
-
-[Contains Duplicate](https://github.com/06Jest/LearningDSA) · [Valid Anagram](https://github.com/06Jest/LearningDSA) · [Two Sum](https://github.com/06Jest/LearningDSA)
-
-🔗 **DSA Repository:** [github.com/06Jest/LearningDSA](https://github.com/06Jest/LearningDSA)
-
----
-
 ## Currently Building / Learning
 
 **Building**
@@ -165,29 +149,19 @@ Alongside application development, I'm following structured DSA roadmaps and pra
 
 ---
 
-## Developer Philosophy
-
-**Build. Break. Understand. Improve.**
-
-I'd rather understand why a system works, or why it broke, than copy a solution without knowing what it's doing.
-
-That means reading error messages closely, tracing bugs to their root cause, understanding the trade-offs behind technical decisions, and refactoring code once I understand it better than I did the first time I wrote it.
-
----
-
 ## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=06Jest&show_icons=true&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=06Jest&theme=tokyonight)
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=06Jest&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=06Jest&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06Jest&layout=compact&theme=tokyonight&hide_border=true" />
+![Jest's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=tokyo-night)
 
 </div>
 
