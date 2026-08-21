@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/06Jest"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/scaledev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=silvanojestony27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" /></a>
+<a href="https://github.com/06Jest"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/scaledev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;&nbsp;<a href="https://jest-scale-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" height="28" /></a>
 </div>
 
 </div>
@@ -135,13 +135,5 @@ Every one of these has been a practical lesson in how production systems actuall
 ## Connect With Me
 
 <div align="center">
-
-<a href="https://ph.linkedin.com/in/scaledev" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" />
-</a>
-&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=silvanojestony27@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" />
-</a>
-
+<a href="https://ph.linkedin.com/in/scaledev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=silvanojestony27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" /></a>
 </div>
