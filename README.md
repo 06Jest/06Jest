@@ -57,13 +57,6 @@ I'm currently deepening my skills in advanced TypeScript, data structures & algo
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Testing & Tools**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-
 **Currently strengthening:** Advanced TypeScript · Data Structures & Algorithms · Backend architecture · API design · CI/CD · Docker · System design
 
 ---
@@ -99,7 +92,6 @@ I care about building real applications instead of only tutorials — understand
 
 Working on uniThread CRM has meant getting hands-on with:
 
-- CORS configuration across environments
 - Authentication and session management
 - Database migrations and schema evolution
 - Multi-tenancy and Row Level Security policies
@@ -154,8 +146,8 @@ I'd rather understand why a system works — or why it broke — than copy a sol
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?06jest&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?06jest&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
 </tr>
 </table>
 
@@ -170,7 +162,6 @@ I'd rather understand why a system works — or why it broke — than copy a sol
 | [uniThread CRM — Frontend](#) | React + TypeScript client for the uniThread CRM platform |
 | [uniThread CRM — Backend](#) | Node.js/Express API powering multi-tenant CRM operations |
 | [DSA Practice](#) | Ongoing LeetCode solutions and structured DSA practice |
-| [Portfolio](#) | Personal developer portfolio site |
 
 ---
 
