@@ -145,11 +145,11 @@ Every one of these has been a practical lesson in how production systems actuall
 <div align="center">
 
 <a href="https://ph.linkedin.com/in/scaledev">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" />
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=silvanojestony27@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" />
 </a>
 
 </div>
