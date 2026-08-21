@@ -16,9 +16,9 @@
 
 ## About Me
 
-I'm a software developer focused on modern JavaScript, TypeScript, and full-stack web development. My work centers on building real, production-oriented applications rather than tutorial clones, with an emphasis on authentication, multi-tenancy, API design, database architecture, and deployment.
+I'm a full-stack developer who likes building things that solve real problems. I work mostly with JavaScript, TypeScript, React, Node.js, and PostgreSQL, with a focus on writing software that's scalable and maintainable.
 
-I'm currently deepening my skills in advanced TypeScript, data structures and algorithms, backend architecture, testing, and system design.
+Currently building uniThread CRM and spending a lot of time learning backend architecture, system design, testing, and DSA.
 
 ---
 
