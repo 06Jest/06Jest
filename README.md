@@ -131,15 +131,24 @@ Every one of these has been a practical lesson in how production systems actuall
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=06Jest&theme=tokyonight)
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=06Jest&theme=tokyonight"
+  width="800"
+/>
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=06Jest&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img
+  src="https://streak-stats.demolab.com/?user=06Jest&theme=tokyonight&hide_border=true"
+  width="800"
+/>
 
 <br>
 
-![Jest's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=tokyo-night)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=tokyo-night"
+  width="800"
+/>
 
 </div>
 
