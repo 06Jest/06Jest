@@ -49,7 +49,7 @@ I'm currently deepening my skills in advanced TypeScript, data structures and al
 **uniThread CRM** is a multi-tenant SaaS CRM platform I've been building as a serious full-stack application. Organization-level data isolation and SaaS architecture are core parts of the system rather than additions to a simple CRUD application.
 
 <p align="center">
-  <img src="./assets/unithread-lifecycle.gif" alt="CRM Demo" width="800">
+  <img src="./assets/unithread-lifecycle.gif" alt="CRM Demo" width="100%">
 </p>
 
 <img
