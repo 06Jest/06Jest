@@ -38,7 +38,7 @@ I'm currently deepening my skills in advanced TypeScript, data structures and al
 
 ### DevOps / Deployment
 
-[![My Skills](https://skillicons.dev/icons?i=git,githubactions,vercel,netlify,railway,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,githubactions,vercel,netlify,docker)](https://skillicons.dev)
 
 **Currently strengthening:** Advanced TypeScript · Data Structures & Algorithms · Backend Architecture · API Design · CI/CD · Docker · System Design
 
