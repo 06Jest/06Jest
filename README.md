@@ -4,7 +4,7 @@
   <img
     src="./assets/gifBanner.gif"
     alt="I want it all! And I'll take it with my own hands!"
-    width="700"
+    width="900"
   />
 </p>
   
