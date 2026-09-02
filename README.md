@@ -1,13 +1,5 @@
 <div align="center">
   
-<p align="center">
-  <img
-    src="./assets/gifBanner.gif"
-    alt="I want it all! And I'll take it with my own hands!"
-    width="900"
-  />
-</p>
-  
 # Hi, I'm Jest
 
 **Full-stack dev, building solutions to real-world problems with scalable and maintainable software.**
