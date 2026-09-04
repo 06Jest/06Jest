@@ -133,9 +133,7 @@ Every one of these has been a practical lesson in how production systems actuall
 
 ---
 
-## GitHub Statistics
-
-<h2 align="center">GitHub Activity</h2>
+## GitHub Activity
 
 <picture>
   <source
@@ -146,7 +144,7 @@ Every one of these has been a practical lesson in how production systems actuall
   <img
     src="./profile/activity-consistency-wide-light.svg"
     alt="GitHub activity consistency"
-    width="640"
+    width="100%"
   />
 </picture>
 ---
