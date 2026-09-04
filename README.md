@@ -141,6 +141,11 @@ Every one of these has been a practical lesson in how production systems actuall
     srcset="./profile/activity-consistency-wide-dark.svg"
   />
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/activity-consistency-wide-light.svg"
+  />
+
   <img
     src="./profile/activity-consistency-wide-light.svg"
     alt="GitHub activity consistency"
