@@ -147,7 +147,7 @@ Every one of these has been a practical lesson in how production systems actuall
   />
 
   <img
-    src="./profile/activity-consistency-wide-light.svg"
+    src="./profile/activity-consistency-wide-dark.svg"
     alt="GitHub activity consistency"
     width="100%"
   />
