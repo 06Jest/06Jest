@@ -138,14 +138,14 @@ Every one of these has been a practical lesson in how production systems actuall
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=06Jest&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=06Jest&theme=default&hide_border=true"
     width="500"
   />
 
   <br><br>
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=minimal&hide_border=true&area=true"
     width="100%"
   />
 
