@@ -136,12 +136,20 @@ Every one of these has been a practical lesson in how production systems actuall
 ## GitHub Statistics
 
 <div align="center">
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=06Jest&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  height="180"
-/>
-</div>
 
+  <img
+    src="https://streak-stats.demolab.com?user=06Jest&theme=tokyonight&hide_border=true"
+    width="500"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+
+</div>
 ---
 
 ## Education & Honors
