@@ -26,7 +26,7 @@ jobs:
           token: ${{ github.token }}
           profile: activity-consistency
 
-      - name: Stage complete artifact set
+      - name: Copy generated stats
         env:
           READY_DIR: ${{ steps.stats.outputs.ready-dir }}
         run: |
@@ -34,15 +34,57 @@ jobs:
 
           cp "$READY_DIR"/activity-consistency-*.svg profile/
 
+      - name: Remove contribution graphs
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+
+          for path in Path("profile").glob("activity-consistency-*.svg"):
+              svg = path.read_text(encoding="utf-8")
+
+              # Remove contribution cells.
+              svg = re.sub(
+                  r'<rect\b[^>]*data-date="[^"]*"[^>]*/>\s*',
+                  '',
+                  svg
+              )
+
+              # Remove contribution legend labels.
+              svg = re.sub(
+                  r'<text\b[^>]*>(?:LESS|MORE)</text>\s*',
+                  '',
+                  svg
+              )
+
+              # Remove contribution legend squares.
+              svg = re.sub(
+                  r'<rect\b[^>]*data-legend-level="[^"]*"[^>]*/>\s*',
+                  '',
+                  svg
+              )
+
+              # Remove contribution total.
+              svg = re.sub(
+                  r'<text\b[^>]*>395 CONTRIBUTIONS · PAST YEAR</text>\s*',
+                  '',
+                  svg
+              )
+
+              path.write_text(svg, encoding="utf-8")
+          PY
+
+      - name: Verify artifacts
+        run: |
           test -s profile/activity-consistency-wide-light.svg
           test -s profile/activity-consistency-wide-dark.svg
           test -s profile/activity-consistency-compact-light.svg
           test -s profile/activity-consistency-compact-dark.svg
 
-          git add profile/activity-consistency-*.svg
-
       - name: Publish changed artifact set
         run: |
+          git add profile/activity-consistency-*.svg
+
           if git diff --cached --quiet; then
             exit 0
           fi
