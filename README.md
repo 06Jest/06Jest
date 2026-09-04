@@ -138,7 +138,7 @@ Every one of these has been a practical lesson in how production systems actuall
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=06Jest&theme=default&hide_border=true"
+    src="https://streak-stats.demolab.com?user=06Jest&theme=dark&hide_border=true"
     width="500"
   />
 
