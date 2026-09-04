@@ -36,7 +36,7 @@ Currently building uniThread CRM and spending a lot of time learning backend arc
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase)](https://skillicons.dev)
 
-### DevOps / Deployment
+### DevOps / Deployments
 
 [![My Skills](https://skillicons.dev/icons?i=git,githubactions,vercel,netlify,docker)](https://skillicons.dev)
 
@@ -137,10 +137,26 @@ Every one of these has been a practical lesson in how production systems actuall
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=tokyo-night"
-  width="600"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=06Jest&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=06Jest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    width="100%"
+  />
 
 </div>
 
