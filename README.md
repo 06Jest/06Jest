@@ -136,17 +136,10 @@ Every one of these has been a practical lesson in how production systems actuall
 ## GitHub Activity
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile/activity-consistency-wide-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./profile/activity-consistency-wide-light.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-consistency-wide-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/activity-consistency-wide-light.svg" />
+  <img src="./profile/activity-consistency-wide-light.svg" width="100%" alt="06Jest activity/consistency" />
 </picture>
----
 
 ## Education & Honors
 
