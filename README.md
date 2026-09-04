@@ -135,21 +135,20 @@ Every one of these has been a practical lesson in how production systems actuall
 
 ## GitHub Statistics
 
-<div align="center">
+<h2 align="center">GitHub Activity</h2>
 
-  <img
-    src="https://streak-stats.demolab.com?user=06Jest&theme=dark&hide_border=true"
-    width="500"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/activity-consistency-wide-dark.svg"
   />
 
-  <br><br>
-
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=06Jest&theme=minimal&hide_border=true&area=true"
-    width="100%"
+    src="./profile/activity-consistency-wide-light.svg"
+    alt="GitHub activity consistency"
+    width="640"
   />
-
-</div>
+</picture>
 ---
 
 ## Education & Honors
