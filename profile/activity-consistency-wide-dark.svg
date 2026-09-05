@@ -1,0 +1,146 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+viewBox="0 0 1000 220"
+width="1000"
+height="220"
+role="img"
+aria-label="06Jest · ACTIVITY / CONSISTENCY"
+>
+<rect width="1000" height="220" fill="#17171B"/>
+<rect
+    x="0.5"
+    y="0.5"
+    width="999"
+    height="219"
+    fill="none"
+    stroke="#3A383F"
+/>
+
+<text
+    x="28"
+    y="31"
+    fill="#F5F2EA"
+    font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace"
+    font-size="11"
+    font-weight="700"
+    letter-spacing="0.4"
+>06Jest · ACTIVITY / CONSISTENCY</text>
+
+<text
+    x="972"
+    y="31"
+    fill="#AAA6AE"
+    font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace"
+    font-size="9"
+    font-weight="600"
+    text-anchor="end"
+>SEP 06, 2025 — SEP 05, 2026</text>
+
+
+<!-- Active days -->
+
+<text
+    x="28"
+    y="105"
+    fill="#F5F2EA"
+    font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="56"
+    font-weight="700"
+    letter-spacing="-3"
+>64</text>
+
+<text
+    x="112"
+    y="83"
+    fill="#AAA6AE"
+    font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="18"
+    font-weight="650"
+>/ 365</text>
+
+<text
+    x="112"
+    y="105"
+    fill="#F5F2EA"
+    font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace"
+    font-size="10"
+    font-weight="700"
+>ACTIVE DAYS</text>
+
+
+<!-- Divider -->
+
+<path
+    d="M300 61L300 126"
+    stroke="#3A383F"
+/>
+
+
+<!-- Current streak -->
+
+<text
+    x="335"
+    y="100"
+    fill="#E06447"
+    font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="42"
+    font-weight="700"
+>5</text>
+
+<text
+    x="335"
+    y="121"
+    fill="#AAA6AE"
+    font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace"
+    font-size="8"
+    font-weight="650"
+>CURRENT STREAK · DAYS</text>
+
+
+<!-- Longest streak -->
+
+<text
+    x="565"
+    y="100"
+    fill="#F5F2EA"
+    font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="42"
+    font-weight="700"
+>12</text>
+
+<text
+    x="565"
+    y="121"
+    fill="#AAA6AE"
+    font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace"
+    font-size="8"
+    font-weight="650"
+>LONGEST STREAK · DAYS</text>
+
+
+<!-- Contributions -->
+
+<text
+    x="28"
+    y="169"
+    fill="#F5F2EA"
+    font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace"
+    font-size="10"
+    font-weight="700"
+>414 CONTRIBUTIONS · PAST YEAR</text>
+
+<path
+    d="M28 184L972 184"
+    stroke="#3A383F"
+/>
+
+<text
+    x="28"
+    y="204"
+    fill="#AAA6AE"
+    font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace"
+    font-size="8"
+    font-weight="650"
+>ACTIVE DAYS AND STREAKS · DERIVED FROM DAILY COUNTS</text>
+
+</svg>
