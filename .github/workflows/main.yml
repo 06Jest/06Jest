@@ -19,67 +19,17 @@ jobs:
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
-      - uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835 # v0.2.0
-        id: stats
-        with:
-          username: ${{ github.repository_owner }}
-          token: ${{ github.token }}
-          profile: activity-consistency
-
-      - name: Copy generated stats
+      - name: Generate activity cards
         env:
-          READY_DIR: ${{ steps.stats.outputs.ready-dir }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
         run: |
-          mkdir -p profile
-
-          cp "$READY_DIR"/activity-consistency-*.svg profile/
-
-      - name: Remove contribution graphs
-        run: |
-          python3 <<'PY'
-          from pathlib import Path
-          import re
-
-          for path in Path("profile").glob("activity-consistency-*.svg"):
-              svg = path.read_text(encoding="utf-8")
-
-              # Remove contribution cells.
-              svg = re.sub(
-                  r'<rect\b[^>]*data-date="[^"]*"[^>]*/>\s*',
-                  '',
-                  svg
-              )
-
-              # Remove contribution legend labels.
-              svg = re.sub(
-                  r'<text\b[^>]*>(?:LESS|MORE)</text>\s*',
-                  '',
-                  svg
-              )
-
-              # Remove contribution legend squares.
-              svg = re.sub(
-                  r'<rect\b[^>]*data-legend-level="[^"]*"[^>]*/>\s*',
-                  '',
-                  svg
-              )
-
-              # Remove contribution total.
-              svg = re.sub(
-                  r'<text\b[^>]*>395 CONTRIBUTIONS · PAST YEAR</text>\s*',
-                  '',
-                  svg
-              )
-
-              path.write_text(svg, encoding="utf-8")
-          PY
+          python3 scripts/generate-activity-card.py
 
       - name: Verify artifacts
         run: |
           test -s profile/activity-consistency-wide-light.svg
           test -s profile/activity-consistency-wide-dark.svg
-          test -s profile/activity-consistency-compact-light.svg
-          test -s profile/activity-consistency-compact-dark.svg
 
       - name: Publish changed artifact set
         run: |
