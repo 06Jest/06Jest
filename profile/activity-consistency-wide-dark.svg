@@ -34,7 +34,7 @@ aria-label="06Jest · ACTIVITY / CONSISTENCY"
     font-size="9"
     font-weight="600"
     text-anchor="end"
->SEP 06, 2025 — SEP 05, 2026</text>
+>SEP 07, 2025 — SEP 06, 2026</text>
 
 
 <!-- Active days -->
@@ -47,7 +47,7 @@ aria-label="06Jest · ACTIVITY / CONSISTENCY"
     font-size="56"
     font-weight="700"
     letter-spacing="-3"
->64</text>
+>65</text>
 
 <text
     x="112"
@@ -85,7 +85,7 @@ aria-label="06Jest · ACTIVITY / CONSISTENCY"
     font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
     font-size="42"
     font-weight="700"
->5</text>
+>6</text>
 
 <text
     x="335"
@@ -127,7 +127,7 @@ aria-label="06Jest · ACTIVITY / CONSISTENCY"
     font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace"
     font-size="10"
     font-weight="700"
->414 CONTRIBUTIONS · PAST YEAR</text>
+>415 CONTRIBUTIONS · PAST YEAR</text>
 
 <path
     d="M28 184L972 184"
