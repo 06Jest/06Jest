@@ -18,7 +18,6 @@
 
 I'm a full-stack developer who likes building things that solve real problems. I work mostly with JavaScript, TypeScript, React, Node.js, and PostgreSQL, with a focus on writing software that's scalable and maintainable.
 
-Currently building uniThread CRM and spending a lot of time learning backend architecture, system design, testing, and DSA.
 
 ---
 
