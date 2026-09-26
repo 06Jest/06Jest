@@ -34,7 +34,7 @@ aria-label="06Jest · ACTIVITY / CONSISTENCY"
     font-size="9"
     font-weight="600"
     text-anchor="end"
->SEP 26, 2025 — SEP 25, 2026</text>
+>SEP 27, 2025 — SEP 26, 2026</text>
 
 
 <!-- Active days -->
@@ -47,7 +47,7 @@ aria-label="06Jest · ACTIVITY / CONSISTENCY"
     font-size="56"
     font-weight="700"
     letter-spacing="-3"
->78</text>
+>79</text>
 
 <text
     x="112"
@@ -127,7 +127,7 @@ aria-label="06Jest · ACTIVITY / CONSISTENCY"
     font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace"
     font-size="10"
     font-weight="700"
->573 CONTRIBUTIONS · PAST YEAR</text>
+>584 CONTRIBUTIONS · PAST YEAR</text>
 
 <path
     d="M28 184L972 184"
